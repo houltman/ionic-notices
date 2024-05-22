@@ -15,4 +15,4 @@ ionic serve
 Compilar para andoid
 ````
 ionic capacitor build android
-```
+````
